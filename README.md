@@ -61,9 +61,9 @@
 
 # 🤖 Contributions
 
-<p align="center">
+<!-- <p align="center">
   <img src="./github-contribution-grid-snake-dark.svg" alt="Snake animation draw" />
-</p>
+</p> -->
 
 <!-- Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=footer"/>
