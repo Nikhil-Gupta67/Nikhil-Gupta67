@@ -42,7 +42,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil-Gupta67&show_icons=true&locale=en&layout=compact" alt="Nikhil-Gupta67" width=350 /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Gupta67&show_icons=true&locale=en" alt="roshan-metrix" width=400 /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Gupta67&show_icons=true&locale=en" alt="nikhil-Gupta67" width=400 /></p>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Nikhil-Gupta67&" alt="Roshan-metrix" align="center" width=400 /></a>
 &nbsp;&nbsp;&nbsp;<a href="#">
