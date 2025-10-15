@@ -44,7 +44,7 @@
 
 <p>&nbsp;<img align="center" src="https://github.com/Nikhil-Gupta67" alt="nikhil-Gupta67" width=400 /></p>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Nikhil-Gupta67&" alt="Nikhil-Gupta67" align="center" width=400 /></a>
+<img src="https://github.com/Nikhil-Gupta67" alt="Nikhil-Gupta67" align="center" width=400 /></a>
 &nbsp;&nbsp;&nbsp;<a href="#">
 
 <!-- 3D Contribution -->
