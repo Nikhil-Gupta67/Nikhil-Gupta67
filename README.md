@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=header"/>
 <!-- Context -->
 <h1 align="center">Hi,I'm Nikhil Gupta </h1>
-<h3 align="center">A Passionate Full Stack DevOps Engineer </h3>
+<h3 align="center">A Passionate Full Stack DevOps Engineer amd Data science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhil-Gupta67&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil-Gupta67" /> </p>
 
