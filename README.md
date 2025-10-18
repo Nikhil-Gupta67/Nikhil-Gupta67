@@ -14,7 +14,7 @@
 
 - ⚡ Researching **AI/ML** , exploring **Big Data**
 
-- 🎯 Proficiency in **Typescript,ReactJS,NodeJS etc.**
+- 🎯 Proficiency in **Javascript,ReactJS,Python etc.**
 
 - 📫 Reach me **nikhilgupta8595665@gmail.com**
 
