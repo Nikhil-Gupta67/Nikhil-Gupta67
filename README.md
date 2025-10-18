@@ -10,7 +10,7 @@
 
 
 
-- 🌱 Currently learning **DevOps and Cloud** , working in **Full Stack Projects**
+- 🌱 Currently learning **Cloud** , working in **Full Stack Projects**
 
 - ⚡ Researching **AI/ML** , exploring **Big Data**
 
