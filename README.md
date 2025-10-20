@@ -12,7 +12,7 @@
 
 - 🌱 Currently learning **Cloud** , working in **Full Stack Projects**
 
-- ⚡ Researching **AI/ML** , exploring **Big Data**
+- ⚡ Researching **AI/ML**exploring **Big Data**
 
 - 🎯 Proficiency in **Javascript,ReactJS,Python etc.**
 
