@@ -58,7 +58,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil-Gupta67&layout=compact" width="350"/>
