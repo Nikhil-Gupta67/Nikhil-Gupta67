@@ -52,7 +52,7 @@
   <tr>
     <td>
        <img width="794" src="https://github.com/Nikhil-Gupta67/Nikhil-Gupta67/blob/master/profile-night-rainbow.svg" align="center"/>
-      <img width="794" src="https://github.com/Roshan-Metrix/Roshan-Metrix/blob/master/profile-night-rainbow.svg" align="center"/>
+      <img width="794" src="https://github.com/Nikhil-Gupta67/Nikhil-Gupta67/blob/master/profile-night-rainbow.svg" align="center"/>
       <img width="794" src="https://github.com/Roshan-Metrix/Roshan-Metrix/blob/master/profile-night-rainbow.svg" align="center"/>
       <img width="794" src="https://github.com/Roshan-Metrix/Roshan-Metrix/blob/master/profile-night-rainbow.svg" align="center"/>
     </td>
