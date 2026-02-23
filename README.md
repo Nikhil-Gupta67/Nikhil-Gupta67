@@ -1,69 +1,82 @@
-<!-- Headerm -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=header"/>
-<!-- Context -->
-<h1 align="center">Hi,I'm Nikhil Gupta </h1>
-<h3 align="center">A Passionate Full Stack DevOps Engineer amd Data science</h3>
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=header"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhil-Gupta67&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil-Gupta67" /> </p>
+<h1 align="center">Hi, I'm Nikhil Gupta 👋</h1>
+<h3 align="center">A Passionate Full Stack DevOps Engineer and Data Science Learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nikhil-Gupta67" alt="Nikhil-Gupta67-github-trophy" /></a> </p>
-
-
-
-- 🌱 Currently learning **Cloud** , working in **Full Stack Projects**
-
-- ⚡ Researching **AI/ML**exploring **Big Data**
-
-- 🎯 Proficiency in **Javascript,ReactJS,Python etc.**
-
-- 📫 Reach me **nikhilgupta8595665@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nikhil-gupta-7b8702383/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61552393451612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikhil gupta" height="30" width="40" /></a>
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nikhil_" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Nikhil-Gupta1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nikhil-Gupta67" height="30" width="40" /></a>
-  
+  <img src="https://komarev.com/ghpvc/?username=Nikhil-Gupta67&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil-Gupta67" />
 </p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nikhil-Gupta67" alt="GitHub Trophy" />
+  </a>
+</p>
+
+---
+
+- 🌱 Currently learning **Cloud**, working on **Full Stack Projects**
+- ⚡ Researching **AI/ML** & exploring **Big Data**
+- 🎯 Proficient in **JavaScript, ReactJS, Python**
+- 📫 Reach me: **nikhilgupta8595665@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nikhil-gupta-7b8702383/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61552393451612" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/Nikhil-Gupta1/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+</p>
+
+---
 
 # ⚡ Tech Stack
 
-| Categories                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🚀 Frontend [React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white) ![i18next](https://img.shields.io/badge/i18next-26a69a?style=flat-square&logo=i18next&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-ccc?style=flat-square&logo=zustand&logoColor=black) |
-| ⚙️ Backend                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-61DAFB?style=flat-square&logo=rest&logoColor=white) ![Authentication](https://img.shields.io/badge/Authentication-000000?style=flat-square&logo=authelia&logoColor=white)                                                                                                                        |
-| ☁️ Cloud                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | ![AWS S3](https://img.shields.io/badge/AWS_S3-51962e?style=flat-square&logo=amazons3&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-ec7211?style=flat-square&logo=amazonec2&logoColor=white) ![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-ec7211?style=flat-square&logo=amazonwebservices&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-d8272f?style=flat-square&logo=awsamplify&logoColor=white) |
-| 🗄️ Databases                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/sql-8A2BE2) ![PostgreSQL](https://img.shields.io/badge/Postgresql-0078D4) ![Firebase](https://img.shields.io/badge/Firebase-ffffff?style=flat-square&logo=firebase&logoColor=ffcb2b)                                                                                                                                                                                                                                        |
-| 🛠️ Development Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | ![Vite](https://img.shields.io/badge/Vite-bd34fe?style=flat-square&logo=vite&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E) !                                              |
-| 🚀 Deployment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ![Docker](https://img.shields.io/badge/Docker-1d63ed?style=flat-square&logo=docker&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-ec7211?style=flat-square&logo=amazonec2&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-d8272f?style=flat-square&logo=awsamplify&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)                |
-| 🔧 Familiar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | [GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=019137) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![C++](https://img.shields.io/badge/C++-ec7211?style=flat-square&logo=amazonec2&logoColor=white) ![Python](https://img.shields.io/badge/python-1d63ed?style=flat-square&logoColor=white)                                      |
-| 📝 Others                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | ![Puppeteer](https://img.shields.io/badge/Puppeteer-34495E?style=flat-square&logo=puppeteer&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-000000?style=flat-square)                                                                                                                                                                                                                                                                                                                                                                                         |
+| Category      | Technologies                                         |
+| ------------- | ---------------------------------------------------- |
+| 🚀 Frontend   | React, JavaScript, TypeScript, HTML5, CSS3, Tailwind |
+| ⚙️ Backend    | Node.js, Express, REST API                           |
+| ☁️ Cloud      | AWS EC2, S3, IAM, Amplify                            |
+| 🗄️ Database   | MongoDB, PostgreSQL, Firebase                        |
+| 🛠️ Tools      | Git, GitHub, VS Code, Vite                           |
+| 🚀 Deployment | Docker, GitHub Pages, Render                         |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil-Gupta67&show_icons=true&locale=en&layout=compact" alt="Nikhil-Gupta67" width=350 /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github.com/Nikhil-Gupta67" alt="nikhil-Gupta67" width=400 /></p>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Nikhil-Gupta67&" alt="Nikhil-Gupta67" align="center" width=400 /></a>
-&nbsp;&nbsp;&nbsp;<a href="#">
-
-<!-- 3D Contribution -->
-<table>
-  <tr>
-    <td>
-       <img width="794" src="https://github.com/Nikhil-Gupta67/Nikhil-Gupta67/blob/master/profile-night-rainbow.svg" align="center"/>
-      <img width="794" src="https://github.com/Nikhil-Gupta67/Nikhil-Gupta67/blob/master/profile-night-rainbow.svg" align="center"/>
-      <img width="794" src="https://github.com/Nikhil-Gupta67/Nikhil-Gupta67/blob/master/profile-night-rainbow.svg" align="center"/>
-      <img width="794" src="https://github.com/Nikhil-Gupta67/Nikhil-Gupta67/blob/master/profile-night-rainbow.svg" align="center"/>
-    </td>
-  </tr>
-</table>
-
-# 🤖 Contributions
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./github-contribution-grid-snake-dark.svg" alt="Snake animation draw" />
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil-Gupta67&layout=compact" width="350"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Gupta67" width="400"/>
+</p>
+
+---
+
+## 📈 Contributions
+
+<p align="center">
+  <img src="./github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+---
 
 <!-- Footer -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=footer"/>
