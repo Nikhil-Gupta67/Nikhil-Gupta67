@@ -17,7 +17,7 @@
 ---
 
 - 🌱 Currently learning **Cloud**, working on **Full Stack Projects**
-- ⚡ Researching **AI/ML** & exploring **Big Data**
+- ⚡ Researching on **AI/ML** & exploring **Big Data**
 - 🎯 Proficient in **JavaScript, ReactJS, Python**
 - 📫 Reach me: **nikhilgupta8595665@gmail.com**
 
