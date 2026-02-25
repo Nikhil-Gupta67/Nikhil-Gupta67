@@ -1,6 +1,5 @@
 <!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=header"/>
-
 <h1 align="center">Hi, I'm Nikhil Gupta 👋</h1>
 <h3 align="center">A Passionate Full Stack DevOps Engineer and Data Science Learner</h3>
 
