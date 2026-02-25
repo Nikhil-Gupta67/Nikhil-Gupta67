@@ -2,11 +2,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=header"/>
 <h1 align="center">Hi, I'm Nikhil Gupta 👋</h1>
 <h3 align="center">A Passionate Full Stack DevOps Engineer and Data Science Learner</h3>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Nikhil-Gupta67&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil-Gupta67" />
 </p>
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="![https://github-profile-trophy.vercel.app](https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png)/?username=Nikhil-Gupta67" alt="GitHub Trophy" />
