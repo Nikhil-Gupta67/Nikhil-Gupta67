@@ -56,7 +56,7 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Nikhil-Gupta67x&" height="200" />
   <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nikhil-Gupta67x&langs_count=8&hide=html,css,ejs" height="320" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=roshan-metrix&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" height="400" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nikhil-Gupta67&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" height="400" />
     </p>
 </p> 
 
