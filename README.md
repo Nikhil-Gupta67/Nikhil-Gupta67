@@ -50,15 +50,16 @@
 | 🚀 Deployment | ![Docker](https://img.shields.io/badge/Docker-1d63ed?style=flat-square&logo=docker&logoColor=white)  ![Nginx](https://img.shields.io/badge/Nginx-019137?style=flat-square&logo=nginx&logoColor=ffffff) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-ec7211?style=flat-square&logo=amazonec2&logoColor=white) ![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-ec7211?style=flat-square&logo=amazonwebservices&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-d8272f?style=flat-square&logo=awsamplify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white) |
 | 🔧 Familiar | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=019137) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![C++](https://img.shields.io/badge/C++-ec7211?style=flat-square&logo=amazonec2&logoColor=white) ![Python](https://img.shields.io/badge/python-1d63ed?style=flat-square&logoColor=white) |
 | 📝 Others | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-34495E?style=flat-square&logo=puppeteer&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-000000?style=flat-square) | -->
+
 ## Streak
 
  <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Nikhil-Gupta67x&" height="200" />
   <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nikhil-Gupta67x&langs_count=8&hide=html,css,ejs" height="320" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nikhil-Gupta67&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" height="400" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nikhil-Gupta67x&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" height="400" />
     </p>
-</p> 
+</p>
 
 <!-- [![Roshan's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Roshan-Metrix)](https://github.com/pranesh-2005/github-readme-stats-fast) -->
 
@@ -70,7 +71,6 @@
     </td>
   </tr>
 </table> -->
-
 
 ## 🤖 Contributions
 
