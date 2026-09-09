@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/nikhil-gupta-7b8702383/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href=" " target="blank">
+  <a href="https://www.facebook.com/profile.php?id=61552393451612" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/kumarnikhil0464/" target="blank">
