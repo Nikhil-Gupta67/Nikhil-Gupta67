@@ -15,7 +15,7 @@
 
 - Currently learning **DevOps and Cloud** , working in **Full Stack , Android/iOS Projects**
 
-- Researching in **AI/ML** , exploring **Quantum Computing**
+- Researching in **AI/ML**,
 
 - Proficiency in **Typescript, NodeJS, AI/ML, C++ etc.**
 
