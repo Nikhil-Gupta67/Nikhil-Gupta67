@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=header"/>
 <!-- Context -->
 <h1 align="center">Hi,Nikhil Gupta </h1>
-<h3 align="center">A Passionate Fu ll Stack AI Engineer </h3>
+<h3 align="center">A Passionate Full Stack AI Engineer </h3>
 
 <p align="center"> <img src="https://github-profile-trophy-unserori.vercel.app/?username=Nikhil-Gupta67&theme=light&row=2&column=5&margin-w=15&margin-h=15" alt=Nikhil-Gupta67" /> </p>
 
