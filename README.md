@@ -52,8 +52,11 @@
 | 📝 Others | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-34495E?style=flat-square&logo=puppeteer&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-000000?style=flat-square) | -->
 ## Streak
 
- <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Nikhil-Gupta67x&" height="200" />
+ ## Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Nikhil-Gupta67" height="200" />
+</p>
   <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nikhil-Gupta67x&langs_count=8&hide=html,css,ejs" height="320" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Nikhil-Gupta67&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" height="400" />
